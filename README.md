@@ -12,7 +12,8 @@
 
   <div style="display: inline_block"><br>
      <img align="center" alt="anna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     ![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-    </div>
+![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+  </div>
   
   ![Snake animation](https://github.com/annarodrig/annarodrig/blob/output/github-contribution-grid-snake.svg)
