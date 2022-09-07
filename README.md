@@ -1,6 +1,6 @@
 ### Olá! eu sou a Anna Beatriz
 
-- 🌱 Cursando Técnico em Informática
+- 💻 Cursando Técnico em Informática na Etec Adolpho Berezin 
 - 📫 Contacte-me no email: annabeatrizrodriguesoliveira5@gmail.com
 - 😄 Pronome: ela\dela
 
