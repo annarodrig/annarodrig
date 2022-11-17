@@ -1,4 +1,4 @@
-### Olá! eu sou a Anna Beatriz
+### Olá! Eu sou a Anna Beatriz
 
 - 💻 Cursando Técnico em Informática na Etec Adolpho Berezin 
 - 📫 Contacte-me no email: annab_oliver@hotmail.com
