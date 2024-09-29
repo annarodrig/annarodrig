@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Anna Beatriz
 
-- 💻 Cursando Técnico em Informática na Etec Adolpho Berezin 
+- 💻 Cursando Análise e Desenvolvimento de Sistema na Unicesumar 
 - 📫 Contacte-me no email: annab_oliver@hotmail.com
 - 😄 Pronome: ela\dela
 
